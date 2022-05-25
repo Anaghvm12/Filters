@@ -1,19 +1,26 @@
 class script(object):
-    START_TXT = """<b>𝖧ᴇʟʟᴏ {},
+    START_TXT = """<b>𝖧ᴇʟʟᴏ {},</b>
 
-𝖬ʏ 𝖭ᴀᴍᴇ ɪs <a href=https://t.me/+wnp1SdfDIHI1ODc1>Sʀɪɴɪᴅʜɪ</a>. 𝖠 𝖲ᴍᴀʀᴛ 𝖱ᴏʙᴏᴛ 𝖶ɪᴛʜ 𝖬ᴀɴʏ 𝖠ᴍᴀᴢɪɴɢ 𝖥ᴇᴀᴛᴜʀᴇs. 𝖨 𝖢ᴀɴ 𝖯ʀᴏᴠɪᴅᴇ 𝖬ᴏᴠɪᴇs & 𝖧ᴇʟᴘ 𝖸ᴏᴜ 𝖳ᴏ 𝖬ᴀɴᴀɢᴇ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs, 𝖩ᴜsᴛ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘ 𝖠s 𝖠ᴅᴍɪɴ 𝖠ɴᴅ 𝖤ɴᴊᴏʏ.....🥰</b>"""
+<b>𝖬ʏ 𝖭ᴀᴍᴇ ɪs Sʀɪɴɪᴅʜɪ. 𝖠 𝖲ᴍᴀʀᴛ 𝖱ᴏʙᴏᴛ 𝖶ɪᴛʜ 𝖬ᴀɴʏ 𝖠ᴍᴀᴢɪɴɢ
+𝖥ᴇᴀᴛᴜʀᴇs. 𝖨 𝖢ᴀɴ 𝖯ʀᴏᴠɪᴅᴇ 𝖬ᴏᴠɪᴇs & 𝖧ᴇʟᴘ 𝖸ᴏᴜ 𝖳ᴏ 𝖬ᴀɴᴀɢᴇ 𝖸ᴏᴜʀ
+𝖦ʀᴏᴜᴘs, 𝖩ᴜsᴛ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘ 𝖠s 𝖠ᴅᴍɪɴ 𝖠ɴᴅ 𝖤ɴᴊᴏʏ.....🥰
+</b>"""
     HELP_TXT = """ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 🚩"""
-    ABOUT_TXT = """➪ 𝖬ʏ 𝖭ᴀᴍᴇ: {}
-➪ 𝖢ʀᴇᴏᴛᴏʀ: <a href=https://t.me/MagnusTG>𝖬ᴀɢɴᴜs ᴛɢ 🇮🇳</a>
-➪ 𝖫ɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org/>𝖯ʏʀᴏɢʀᴀᴍ</a>
-➪ 𝖲ᴏᴜʀᴄᴇ 𝖢ᴏᴅᴇ: <a href=https://t.me/hagayhwvwhtf>𝖢ʟɪᴄᴋ ʜᴇʀᴇ</a>
-➪ 𝖢ʀᴇᴅɪᴛs : 𝖤ᴠᴇʀʏ ᴏɴᴇ ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ
-➪ 𝖯ʏᴛʜᴏɴ: 𝖯ʏᴛʜᴏɴ 3
-➪ 𝖣ᴀᴛᴀ 𝖡ᴀsᴇ: <a href=https://www.mongodb.com>𝖬ᴏɴɢᴏ ᴅʙ</a>
-➪ 𝖡ᴏᴛ 𝖲ᴇʀᴠᴇʀ: <a href=https://dashboard.heroku.com/>𝖧ᴇʀᴏᴋᴜ</a>
-➪ 𝖡ᴜʟɪᴅ 𝖲ᴛᴀᴛᴜs: v2.0.1 [ 𝖡ᴇᴛᴀ ]
-                                                                                                                                                                                         
-🔖 𝑸𝒖𝒐𝒕𝒆: ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും"""
+    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ : Sʀɪɴɪᴅʜɪ.</b>
+
+<b>📝 ʟᴀɴɢᴜᴀɢᴇ :  <a href=https://www.python.org/>ᴘʏᴛʜᴏɴ</a></b>
+
+<b>📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ :  <a href=https://github.com/pyrogram/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a></b>
+
+<b>📡 ʜᴏsᴛᴇᴅ ᴏɴ :  <a href=https://dashboard.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
+
+<b>👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ :  <a href=https://t.me/MagnusTG>ᴍᴀɢɴᴜs ᴛɢ 🇮🇳</a></b>
+
+<b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/hagayhwvwhtf>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</a></b>
+
+<b>👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :  <a href=https://t.me/Movies_Series_Requesting_Group>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a></b>
+
+<b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ :  <a href=https://t.me/+wnp1SdfDIHI1ODc1>ᴄʜᴀɴɴᴇʟ</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - This Bot not a open source project. 
 - Source - https://t.me/MyGithubSorceCode      
